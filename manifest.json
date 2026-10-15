@@ -1,0 +1,19 @@
+{
+  "type": "plugin",
+  "id": "cz.simlordon.edgeever.theme-fjord",
+  "name": "Fjord",
+  "version": "1.0.0",
+  "apiVersion": "2",
+  "settingsUi": "host",
+  "description": "Cool blue-gray theme with an indigo accent for light and dark mode. Styles only; the plugin code does nothing.",
+  "locales": {
+    "cs": {
+      "name": "Fjord",
+      "description": "Chladný modrošedý motiv s indigovým akcentem pro světlý i tmavý režim. Pouze styly, kód pluginu nic nedělá."
+    }
+  },
+  "author": "SIMlordON",
+  "entry": "./main.js",
+  "platforms": ["web", "desktop"],
+  "permissions": []
+}
